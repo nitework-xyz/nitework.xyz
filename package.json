@@ -2,6 +2,6 @@
   "name": "www",
   "private": true,
   "scripts": {
-    "dev": "npx http-server ./src/ -o -p 3000"
+    "dev": "npx http-server ./src/ -o"
   }
 }
